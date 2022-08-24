@@ -1,10 +1,10 @@
 # Linux Experience
 
-Este repositório contém os scripts do bootcamp Linux Experience, da Digital Innovation One.
+Este repositório contém todos os scripts do Bootcamp Linux Experience, da Digital Innovation One.
 
-O ['script01_acl1.sh'](/script01_acl1.sh) é uma arquitetura como serviço. Quando executado criará quatro pastas na raiz, usuários e grupos atribuindo-lhes permissões.
+O [script01_acl1.sh](/script01_acl1.sh) é uma arquitetura como serviço. Quando executado criará quatro pastas na raiz, usuários e grupos atribuindo-lhes permissões.
 
-O ['script00.sh'](/script00.sh) desfaz todas as modificações dos demais scripts.
+O [script00.sh](/script00.sh) desfaz todas as modificações dos demais scripts.
 
 ## Executando
 
