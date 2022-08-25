@@ -31,4 +31,9 @@ groupdel -f josefina
 groupdel -f amanda
 groupdel -f rogerio
 
+echo "Removendo aplicativos..."
+
+apt purge -y apache2
+rm -rf /var/www/html
+
 echo "Concluído!"
